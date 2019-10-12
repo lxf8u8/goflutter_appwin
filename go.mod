@@ -1,4 +1,4 @@
-module github.com/go-flutter-desktop/plugins/go-plugin-example/battery
+module github.com/lxf8u8/goflutter_appwin
 
 go 1.12
 
